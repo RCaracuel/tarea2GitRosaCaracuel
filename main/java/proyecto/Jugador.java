@@ -10,8 +10,8 @@ package proyecto;
  * @author Rosa
  */
 public class Jugador {
-String nombre;	// Nombre del jugador de fútbol
-int votos;	// Votos recibidos en la aplicación	
-int id;	// Número único identificativo
+String nombre;	// Nombre del jugador de fÃºtbol
+int votos;	// Votos recibidos en la aplicaciÃ³n	
+int id;	// NÃºmero Ãºnico identificativo
 
 }
