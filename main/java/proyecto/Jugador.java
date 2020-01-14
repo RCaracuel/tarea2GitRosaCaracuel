@@ -14,6 +14,7 @@ String nombre;	// Nombre del jugador de fútbol
 int votos;	// Votos recibidos en la aplicación	
 int id;	// Número único identificativo
 
+<<<<<<< Updated upstream
     public String getNombre() {
         return nombre;
     }
@@ -35,6 +36,11 @@ int id;	// Número único identificativo
     }
 
     public void setId(int id) {
+=======
+    public Jugador(String nombre, int votos, int id) {
+        this.nombre = nombre;
+        this.votos = votos;
+>>>>>>> Stashed changes
         this.id = id;
     }
 
